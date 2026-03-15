@@ -13,5 +13,11 @@ This is a single-page personal web profile built for my CMSC 207 class. It serve
 * **Interactive UI:** Includes CSS hover animations on navigation links, interactive buttons, and content cards.
 * **Dynamic Content:** Features a JavaScript-powered button that reveals a hidden fun fact when clicked.
 
+## Contact Information
+* **Email:** itjanoras@upou.edu.ph
+* **GitHub:** [Vannn1999](https://github.com/Vannn1999)
+* **Facebook:** [Ivan Janoras ](https://www.facebook.com/ivan.janoras)
+* **Instagram:** [ivanpj_](https://www.instagram.com/ivanpj_)
+
 ## Live Demo
 https://vannn1999.github.io/CMSC207-PersonalProfile/
